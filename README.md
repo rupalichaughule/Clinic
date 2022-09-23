@@ -61,18 +61,18 @@ Book Appointment:
     ○ Admin
     ○ Doctor
     ○ Patients
-    ○ Appointment
-    
+    ○ Appointment    
+     
     
 Functionality:
 ● Patient
     ○ Login and check their appointment
-    ○ Guest users can register the appointment using their email id
+    ○ Guest users can register the appointment using their email id   
 ● Doctor
     ○ Login and check their appointment
-    ○ Update appointment status based on their action
+    ○ Update appointment status based on their action   
 ● Admin
-    ○ Can manage Doctor, Patients and appointments
+    ○ Can manage Doctor, Patients and appointments   
 ● Appointment
     ○ Admin or patient can create appointment
-    ○ One patient or admin can create one appointment at a time.    
+    ○ One patient or admin can create one appointment at a time.      
