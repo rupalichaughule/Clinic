@@ -25,13 +25,13 @@ URL- http://127.0.0.1:8000/appointment
  
  AdminCredentials: 
      Email-admin@clinic.com
-     Password- Admin@123
+     Password- Admin@123     
  DoctorCredentials: 
      Email-john@gmail.com
-     Password- john@gmail.com
+     Password- john@gmail.com    
   PatientCredentials: 
      Email-ramm@gmail.com
-     Password- ramm@gmail.com
+     Password- ramm@gmail.com   
      
    
  
