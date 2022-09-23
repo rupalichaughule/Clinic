@@ -76,3 +76,19 @@ Functionality:
 ● Appointment
     ○ Admin or patient can create appointment
     ○ One patient or admin can create one appointment at a time.      
+
+
+
+
+Technology Used:- LARAVEL Framework version 8.1.6
+
+Setup:-
+   - clone project using following command: git clone https://github.com/rupalichaughule/Clinic.git
+   - Database: Download clinic.sql file from folder, create database in phpmyadmin with the name clinic and import clinic.sql file in databse.               
+   - Use composer update command 
+   - Then run project using php artisan serve command
+   
+   Choosing a encryption method and datepicker took a time. The functionality is easy as I am friendly with the LARAVEL framework. I also prefer LARAVEL as compare to PHP. Debugging is easy in LARAVEL. I got less time to complate this project as I was out of station. But I did it and I am Glad.
+   
+   Time to complete project- Around 15 hours(in 2 days) tentitively.
+   
